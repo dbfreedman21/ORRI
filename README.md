@@ -1,4 +1,4 @@
-# ORRI
+# ORRI (Ocean Research Restoration Initiative) 
 Where money actually moves in ocean conservation
 
 Project ORRI
